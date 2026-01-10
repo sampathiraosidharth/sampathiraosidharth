@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Thomson+Reuters;AI+%26+Backend+Development+Enthusiast;Ex-Quick+Heal+%7C+Ex-4cRisk.ai+%7C+Ex-ICICI;Google+CAF'25+%7C+DSC'23+Lead;Building+the+Future+with+AI+%26+Cloud)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=1000&lines=Software+Engineer+%40+Thomson+Reuters;AI+%26+Backend+Development+Enthusiast;Ex-Quick+Heal+%7C+Ex-4cRisk.ai+%7C+Ex-ICICI;Google+CAF'25+%7C+DSC'23+Lead;Building+the+Future+with+AI+%26+Cloud)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampathisidharth)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sidharthsampathirao.vercel.app/)
