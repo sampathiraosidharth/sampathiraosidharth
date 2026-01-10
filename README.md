@@ -1,31 +1,170 @@
+# Hi there, I'm Sidharth Sampathi Rao 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sampathi_rao_sidharth/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sampathi-sidharth) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sampathiraosid1) 
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Thomson+Reuters;AI+%26+Backend+Development+Enthusiast;Ex-Quick+Heal+%7C+Ex-4cRisk.ai+%7C+Ex-ICICI;Google+CAF'25+%7C+DSC'23+Lead;Building+the+Future+with+AI+%26+Cloud)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sampathiraosidharth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sampathiraosidharth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sampathiraosidharth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampathisidharth)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sidharthsampathirao.vercel.app/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sampathiraosidharth)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sampathisidharth1603@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sampathiraosidharth&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sampathiraosidharth&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sampathiraosidharth&icon=0&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/sampathisip) 
+## 🚀 About Me
 
+```python
+class SidharthSampathiRao:
+    def __init__(self):
+        self.role = "Associate Software Engineer @ Thomson Reuters"
+        self.location = "Bengaluru, Karnataka, India"
+        self.education = "BTech in CSE from JNTUK"
+        self.languages = ["Python", "Java", "C++", "JavaScript"]
+        self.interests = ["AI/ML", "Backend Development", "Cloud Computing", "Automation"]
+        self.leadership = ["Ex-Google DSC Lead", "Multi-club Student President"]
+        self.content_creator = "Bilingual Tech & Farming YouTube Channel (Telugu + English)"
+        
+    def current_focus(self):
+        return [
+            "Building autonomous AI translators with multimodal models",
+            "Cross-platform automation pipelines (Linux & Windows)",
+            "Scalable backend systems with Python & AWS",
+            "Real-time telemetry and analytics systems"
+        ]
+    
+    def life_motto(self):
+        return "Dive deep, own the path to production, lean in when things get messy 🚀"
+```
+
+---
+
+## 💼 Professional Journey
+
+### 🔹 Thomson Reuters
+**Associate Software Engineer** | *Aug 2025 - Present*
+> Stay tuned for exciting updates... 🎯
+
+### 🔹 Quick Heal Technologies
+**SDET** | *Feb 2025 - Aug 2025*
+- 🤖 Engineered autonomous AI translator using multimodal LLMs, eliminating external API dependencies
+- 🔧 Built reusable Python libraries for Linux CLI & macOS automation
+- 📊 Developed real-time telemetry systems for event tracking and sales analytics
+- ⚙️ Created robust CI/CD pipelines with Python & Jenkins
+
+### 🔹 4cRisk.ai (GRC-focused AI Platform)
+**Associate Software Engineer** | *Mar 2024 - Dec 2024*
+- 🚄 **80% reduction** in API response time through Django optimization
+- 🔍 **30% faster** search queries via Elasticsearch & MySQL tuning
+- ⚡ **50% efficiency boost** in model processing (40min → 18min per 100 records)
+- 📦 Processed **1.7M+ records** with robust parsing pipelines
+- 🔐 Centralized environment configuration management
+
+### 🔹 ICICI Prudential AMC
+**RPA Automation Developer** | *Oct 2023 - Feb 2024*
+- 📈 Designed end-to-end stock processing automation using UiPath, MySQL & AWS S3
+- 🏗️ Built backend systems for critical investment platforms
+
+### 🔹 Google Developer Student Clubs
+**Google DSC Lead** | *Jul 2023 - Jul 2024*
+- 🎓 Led hands-on sessions on GenAI & Google Cloud Infrastructure
+- 👥 Mentored students and organized technical workshops
+- 🏆 Google CAF'25 & DSC'23 recognized
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI/ML & Tools
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+---
+
+## 🏆 Achievements & Recognition
+
+```yaml
+🥇 Best Influential Student 2024
+🏅 Grand Finalist - Manthan 2k21
+🥇 1st Place - Mock Parliament Competition
+🎯 Organizer of AKAM-75 at Vijayawada, AP
+📜 Multiple Certifications: Java, C++, Microsoft Dynamics 365, RPA
+🎓 Google Cloud Arcade Facilitator (Mar-Jun 2025)
+👨‍💻 UiPath Student Developer Champion (2022-2023)
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidharthsrs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthsrs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidharthsrs&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 Currently working on **autonomous AI systems** and **scalable backend architectures**
+- 🌱 Learning more about **LLMOps**, **distributed systems**, and **cloud-native technologies**
+- 👯 Looking to collaborate on **open-source AI/ML projects** and **backend innovations**
+- 💬 Ask me about **Python, AWS, Django, AI/ML, Automation, or anything tech**
+- 📺 Creating bilingual content on **technology and farming** (Telugu + English)
+- ⚡ Fun fact: I **dive deep, own the entire path to production, and refuse to take a step back when things get messy**
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects, discuss tech, or just chat about AI and automation!
+
+**Feel free to reach out:**
+
+📧 sampathisidharth1603@gmail.com | 📱 +91 9063258223
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampathisidharth)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=sidharthsrs&color=F85D7F&style=for-the-badge)
+  
+  ### ⭐ From [Sidharth Sampathi Rao](https://github.com/sidharthsrs) | Building the future, one commit at a time 🚀
+  
+</div>
