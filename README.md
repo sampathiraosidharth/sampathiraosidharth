@@ -48,29 +48,29 @@ class SidharthSampathiRao:
 
 ### 🔹 Quick Heal Technologies
 **SDET** | *Feb 2025 - Aug 2025*
-- 🤖 Engineered autonomous AI translator using multimodal LLMs, eliminating external API dependencies
-- 🔧 Built reusable Python libraries for Linux CLI & macOS automation
-- 📊 Developed real-time telemetry systems for event tracking and sales analytics
-- ⚙️ Created robust CI/CD pipelines with Python & Jenkins
+- Engineered autonomous AI translator using multimodal LLMs, eliminating external API dependencies
+- Built reusable Python libraries for Linux CLI & macOS automation
+- Developed real-time telemetry systems for event tracking and sales analytics
+- Created robust CI/CD pipelines with Python & Jenkins
 
 ### 🔹 4cRisk.ai (GRC-focused AI Platform)
 **Associate Software Engineer** | *Mar 2024 - Dec 2024*
-- 🚄 **80% reduction** in API response time through Django optimization
-- 🔍 **30% faster** search queries via Elasticsearch & MySQL tuning
-- ⚡ **50% efficiency boost** in model processing (40min → 18min per 100 records)
-- 📦 Processed **1.7M+ records** with robust parsing pipelines
-- 🔐 Centralized environment configuration management
+- **80% reduction** in API response time through Django optimization
+- **30% faster** search queries via Elasticsearch & MySQL tuning
+- **50% efficiency boost** in model processing (40min → 18min per 100 records)
+- Processed **1.7M+ records** with robust parsing pipelines
+- Centralized environment configuration management
 
 ### 🔹 ICICI Prudential AMC
 **RPA Automation Developer** | *Oct 2023 - Feb 2024*
-- 📈 Designed end-to-end stock processing automation using UiPath, MySQL & AWS S3
-- 🏗️ Built backend systems for critical investment platforms
+- Designed end-to-end stock processing automation using UiPath, MySQL & AWS S3
+- Built backend systems for critical investment platforms
 
 ### 🔹 Google Developer Student Clubs
 **Google DSC Lead** | *Jul 2023 - Jul 2024*
-- 🎓 Led hands-on sessions on GenAI & Google Cloud Infrastructure
-- 👥 Mentored students and organized technical workshops
-- 🏆 Google CAF'25 & DSC'23 recognized
+- Led hands-on sessions on GenAI & Google Cloud Infrastructure
+- Mentored students and organized technical workshops
+- Google CAF'25 & DSC'23 recognized
 
 ---
 
@@ -122,12 +122,12 @@ class SidharthSampathiRao:
 
 ## 🎯 What I'm Up To
 
-- 🔭 Currently working on **autonomous AI systems** and **scalable backend architectures**
-- 🌱 Learning more about **LLMOps**, **distributed systems**, and **cloud-native technologies**
-- 👯 Looking to collaborate on **open-source AI/ML projects** and **backend innovations**
-- 💬 Ask me about **Python, AWS, Django, AI/ML, Automation, or anything tech**
-- 📺 Creating bilingual content on **technology and farming** (Telugu + English)
-- ⚡ Fun fact: I **dive deep, own the entire path to production, and refuse to take a step back when things get messy**
+- urrently working on **autonomous AI systems** and **scalable backend architectures**
+- Learning more about **LLMOps**, **distributed systems**, and **cloud-native technologies**
+- Looking to collaborate on **open-source AI/ML projects** and **backend innovations**
+- Ask me about **Python, AWS, Django, AI/ML, Automation, or anything tech**
+- Creating bilingual content on **technology and farming** (Telugu + English)
+- Fun fact: I **dive deep, own the entire path to production, and refuse to take a step back when things get messy**
 
 ---
 
